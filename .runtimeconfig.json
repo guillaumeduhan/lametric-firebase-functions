@@ -1,0 +1,6 @@
+{
+ "firebase": {
+  "projectId": "lametric-udemy-students-count",
+  "storageBucket": "lametric-udemy-students-count.appspot.com"
+ }
+}
